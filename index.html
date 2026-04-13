@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AIforSchool — Assistant pédagogique IA pour les élèves</title>
-<meta name="description" content="Un assistant IA pédagogique qui aide les élèves à progresser sans faire le travail à leur place. Sécurisé, encadré, conforme RGPD.">
-<meta property="og:title" content="AIforSchool — Assistant pédagogique IA pour les élèves">
+<title>AIforSchool — Un assistant IA au service de la progression des élèves</title>
+<meta name="description" content="Un assistant IA conçu pour aider les élèves à comprendre et raisonner par eux-mêmes. Sécurisé, encadré, conforme RGPD.">
+<meta property="og:title" content="AIforSchool — Un assistant IA au service de la progression des élèves">
 <meta property="og:description" content="Un outil d'aide aux devoirs intelligent et sécurisé. Pour les établissements et les familles.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://aiforschool.fr">
@@ -25,8 +25,8 @@
 </nav>
 
 <section class="hero">
-  <h1>Un assistant IA qui aide les élèves à progresser</h1>
-  <p class="hero-sub">Pas à faire le travail à leur place — à comprendre, raisonner et apprendre. Encadré, sécurisé, déployé en quelques jours.</p>
+  <h1>Un assistant IA au service de la progression des élèves</h1>
+  <p class="hero-sub">Conçu pour aider les élèves à comprendre et à raisonner par eux-mêmes, sans faire le travail à leur place. Une solution simple, encadrée, et sécurisée.</p>
   <div class="trust-row">
     <div class="trust-item"><div class="trust-dot td-green"></div>Hébergé en France</div>
     <div class="trust-item"><div class="trust-dot td-blue"></div>Conforme RGPD</div>
@@ -57,6 +57,7 @@
 
     <div class="how"><div class="how-inner">
       <h2 class="section-title">Déploiement en 3 étapes</h2>
+      <p style="text-align:center;font-size:15px;color:var(--text-secondary);margin-top:-24px;margin-bottom:32px;">Votre espace est opérationnel en 24 à 48 heures, sans aucune intervention technique de votre part.</p>
       <div class="steps">
         <div class="step"><div class="step-num">1</div><div><h3>Vous nous envoyez votre logo</h3><p>Et le nombre d'élèves concernés. Nous configurons votre espace en 48 heures.</p></div></div>
         <div class="step"><div class="step-num">2</div><div><h3>Vous imprimez les QR codes</h3><p>Une feuille par classe. Chaque élève scanne, choisit un pseudo et commence immédiatement.</p></div></div>
@@ -140,13 +141,10 @@
 
 <footer class="footer">
   AIforSchool.fr — Assistant pédagogique par intelligence artificielle<br>
-  <a href="mailto:contact@aiforschool.fr">contact@aiforschool.fr</a>
+  <a href="/cdn-cgi/l/email-protection#dcbfb3b2a8bdbfa89cbdb5bab3aeafbfb4b3b3b0f2baae"><span class="__cf_email__" data-cfemail="197a76776d787a6d5978707f766b6a7a71767675377f6b">[email&#160;protected]</span></a>
 </footer>
 
-<script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
 document.querySelectorAll('.tab-btn').forEach(function(b){b.addEventListener('click',function(){document.querySelectorAll('.tab-btn').forEach(function(x){x.classList.remove('active')});document.querySelectorAll('.tab-content').forEach(function(x){x.classList.remove('active')});b.classList.add('active');document.getElementById('tab-'+b.dataset.tab).classList.add('active')})});
 document.querySelectorAll('.cta-tab').forEach(function(b){b.addEventListener('click',function(){document.querySelectorAll('.cta-tab').forEach(function(x){x.classList.remove('active')});document.querySelectorAll('.cta-form').forEach(function(x){x.classList.remove('active')});b.classList.add('active');document.getElementById('ctab-'+b.dataset.ctab).classList.add('active')})});
-document.querySelectorAll('.cta-form form').forEach(function(f){f.addEventListener('submit',function(e){e.preventDefault();var d=new FormData(f);var s=f.parentElement.querySelector('.form-success');fetch(f.action,{method:'POST',body:d,headers:{'Accept':'application/json'}}).then(function(r){if(r.ok){f.style.display='none';s.style.display='block'}else{alert('Une erreur est survenue. Contactez-nous à contact@aiforschool.fr')}}).catch(function(){alert('Une erreur est survenue. Contactez-nous à contact@aiforschool.fr')})})});
-</script>
-</body>
-</html>
+document.querySelectorAll('.cta-form form').forEach(function(f){f.addEventListener('submit',function(e){e.preventDefault();var d=new FormData(f);var s=f.parentElement.querySelector('.form-success');fetch(f.action,{method:'POST',body:d,headers:{'Accept':'application/json'}}).then(function(r){if(r.ok){f.sty
