@@ -26,7 +26,7 @@
 
 <section class="hero">
   <h1>Un assistant IA au service de la progression des élèves</h1>
-  <p class="hero-sub">Conçu pour aider les élèves à comprendre et à raisonner par eux-mêmes, sans faire le travail à leur place. Une solution simple, encadrée, et sécurisée.</p>
+  <p class="hero-sub">Conçu pour aider les élèves à comprendre et à raisonner par eux-mêmes, sans faire le travail à leur place. Une solution simple et limpide : un dialogue, rien de plus. Encadrée et sécurisée.</p>
   <div class="trust-row">
     <div class="trust-item"><div class="trust-dot td-green"></div>Hébergé en France</div>
     <div class="trust-item"><div class="trust-dot td-blue"></div>Conforme RGPD</div>
@@ -141,10 +141,10 @@
 
 <footer class="footer">
   AIforSchool.fr — Assistant pédagogique par intelligence artificielle<br>
-  <a href="/cdn-cgi/l/email-protection#dcbfb3b2a8bdbfa89cbdb5bab3aeafbfb4b3b3b0f2baae"><span class="__cf_email__" data-cfemail="197a76776d787a6d5978707f766b6a7a71767675377f6b">[email&#160;protected]</span></a>
+  <a href="mailto:contact@aiforschool.fr">contact@aiforschool.fr</a>
 </footer>
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+<script>
 document.querySelectorAll('.tab-btn').forEach(function(b){b.addEventListener('click',function(){document.querySelectorAll('.tab-btn').forEach(function(x){x.classList.remove('active')});document.querySelectorAll('.tab-content').forEach(function(x){x.classList.remove('active')});b.classList.add('active');document.getElementById('tab-'+b.dataset.tab).classList.add('active')})});
 document.querySelectorAll('.cta-tab').forEach(function(b){b.addEventListener('click',function(){document.querySelectorAll('.cta-tab').forEach(function(x){x.classList.remove('active')});document.querySelectorAll('.cta-form').forEach(function(x){x.classList.remove('active')});b.classList.add('active');document.getElementById('ctab-'+b.dataset.ctab).classList.add('active')})});
 document.querySelectorAll('.cta-form form').forEach(function(f){f.addEventListener('submit',function(e){e.preventDefault();var d=new FormData(f);var s=f.parentElement.querySelector('.form-success');fetch(f.action,{method:'POST',body:d,headers:{'Accept':'application/json'}}).then(function(r){if(r.ok){f.sty
